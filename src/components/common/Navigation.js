@@ -115,7 +115,7 @@ function Navigation(props) {
             }}
           >
             {/* <Image src="./review.png" alt="" /> */}
-            Reviews 2
+            Reviews 3
           </Link>
           <Link
             className={`${router.asPath === "/foods" ? styles.active : ""}`}
